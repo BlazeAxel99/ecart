@@ -8,7 +8,8 @@ body {
 }
 
 .cart-item {
-  display: inline-flex;
+  display: flex;
+  flex-wrap: wrap;
   margin: 20px 10px;
 }
 
@@ -28,5 +29,6 @@ body {
 }
 .cart {
   display: flex;
-  flex-direction: column;
+  /*flex-direction: column;*/
+  flex-wrap: wrap;
 }

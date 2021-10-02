@@ -22,11 +22,33 @@ class App extends React.Component {
           id: 2,
         },
         {
-          price: 9999,
+          price: 99999,
           title: " Laptop ",
           qty: 4,
           img: "https://image.shutterstock.com/image-vector/laptop-blank-screen-silver-color-260nw-1382811209.jpg",
           id: 3,
+        },
+        {
+          price: 9999,
+          title: "iPad",
+          qty: 12,
+          img: "https://resource.logitech.com/content/dam/logitech/en/products/mobility/folio-touch/gallery/folio-touch-air-gallery-1.png",
+          id: 4,
+        },
+        {
+          price: 9900,
+          title: "Music System",
+          qty: 19,
+          img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl58whxZyVqj7P96apqraZ0CkrPOj4WS6Z5w&usqp=CAU",
+          id: 5,
+        },
+        {
+          price: 998,
+          title: "PenDrive",
+          qty: 16,
+          img: "https://content.instructables.com/ORIG/FPT/6I8N/I9QWCPZV/FPT6I8NI9QWCPZV.jpg?auto=webp",
+
+          id: 6,
         },
       ],
     };
